@@ -1,6 +1,6 @@
 <!-- Change title below -->
 
-# gads-2020-project-submission-template
+# GADS-2020-PROJECT-SUBMISSION
 
 ## QwikLabs Completed
 
